@@ -10,7 +10,7 @@
 <h2>📺 YouTube Videos</h2>
 
 - [How to Setup a Basic Home Lab Running Active Directory](https://www.youtube.com/watch?v=tiXkbuQU9ck)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Zendesk Helpdesk Ticket Incident Documentation Demo](https://www.youtube.com/watch?v=KYM1c9EPdsM)
 
 <h2> 🤳 Connect with me:</h2>
 
