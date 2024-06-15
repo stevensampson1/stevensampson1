@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven! <br/><a href="https://github.com/stevensamps">Information Technology Specialist</a>, <a href="https://www.linkedin.com/in/steven-sampson-70a05776/"<a href="https://www.youtube.com/c/joshmadakor](https://www.youtube.com/@theladdersuccess)">YouTuber</a></h1>
+<h1>Hi, I'm Steven! <br/><a href="https://github.com/stevensamps">Information Technology Specialist</a>, <a href="https://www.youtube.com/@theladdersuccess">YouTuber</a></h1>
 
 <h2>🧑🏻‍💻 Information Technology Projects:</h2>
 
