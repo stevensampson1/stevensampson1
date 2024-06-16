@@ -1,16 +1,11 @@
 <h1>Hi, I'm Steven! <br/><a href="https://github.com/stevensamps">Information Technology Specialist</a>, <a href="https://www.youtube.com/@theladdersuccess">YouTuber</a></h1>
 
-<h2>🧑🏻‍💻 Information Technology Projects:</h2>
+<h2>🧑🏻‍💻 📺 Information Technology Projects/Youtube Videos:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How to Setup a Basic Home Lab Running Active Directory](https://www.youtube.com/watch?v=tiXkbuQU9ck)
 - <b>Zendesk Ticketing System </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-<h2>📺 YouTube Videos</h2>
-
-- [How to Setup a Basic Home Lab Running Active Directory](https://www.youtube.com/watch?v=tiXkbuQU9ck)
-- [Zendesk Helpdesk Ticket Incident Documentation Demo](https://www.youtube.com/watch?v=KYM1c9EPdsM)
+  - [Zendesk Helpdesk Ticket Incident Documentation Demo](https://www.youtube.com/watch?v=KYM1c9EPdsM)
 
 <h2> 🤳 Connect with me:</h2>
 
