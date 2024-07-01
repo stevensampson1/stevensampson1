@@ -6,7 +6,8 @@
   - [How to Setup a Basic Home Lab Running Active Directory](https://www.youtube.com/watch?v=tiXkbuQU9ck)
 - <b>Zendesk Ticketing System </b>
   - [Zendesk Helpdesk Ticket Incident Documentation Demo](https://www.youtube.com/watch?v=KYM1c9EPdsM)
-
+- <b>Cybersecurity Home Lab </b>
+  - [So you want to be a SOC Analyst? Cybersecurity Home Lab](https://www.youtube.com/watch?v=JYgQGtzk658&t=586s)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
